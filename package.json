@@ -1,0 +1,17 @@
+{
+  "name": "jest-iniciante",
+  "version": "1.0.0",
+  "description": "Projeto de exemplo para aprender testes com Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": ["jest", "testing", "nodejs"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
